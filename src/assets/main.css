@@ -1,0 +1,11 @@
+.with-error{
+    border: 1px solid red;
+}
+.close{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.close:focus{
+    outline: none;
+}
